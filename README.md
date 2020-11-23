@@ -14,4 +14,4 @@ I use the regional method mentioned in the paper. I employ cubic function to fit
 
 And the analysis of the result put into the doc.
 
-any queation can send E-mail to 18280120310@163.com
+any queation can send E-mail to 1033201689@qq.com
